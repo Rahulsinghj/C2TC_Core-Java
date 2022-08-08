@@ -1,0 +1,10 @@
+package com.cg.operatorsandvariables;
+
+public class RelationalLogicalOperator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
